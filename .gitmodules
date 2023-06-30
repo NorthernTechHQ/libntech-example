@@ -3,5 +3,5 @@
 	url = https://github.com/cfengine/libntech
 [submodule "tests/unit/cmocka"]
 	path = tests/unit/cmocka
-	url = git://git.cryptomilk.org/projects/cmocka.git
+	url = https://git.cryptomilk.org/projects/cmocka.git
 	ignore = untracked
